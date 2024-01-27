@@ -19,3 +19,68 @@ gguf_init_from_file: invalid magic characters 'tjgg'
 
 
 next step: try 'langchain'
+
+###
+### 1/26/2024
+
+https://www.debugpoint.com/install-python-3-11-ubuntu/
+
+    1  ls
+    2  pwd
+    3  git clone https://github.com/imartinez/privateGPT.git
+    4  ls
+    5  cd privateGPT/
+    6  ls
+    7  sudo apt-get update
+    8  sudo apt install python3-pip
+    9  ls
+   10  ls -l r*
+   11  pip install -r requirements.txt
+   12  cat README*
+   13  LS
+   14  ls
+   15  cat README.md | more
+   16  ls
+   17  history
+   18  ls
+   19  cd ..
+   20  ls
+   21  cd privateGPT/
+   22  ls -la
+   23  ls -l r*
+   24  python
+   25  python3
+   26  g++
+   27  gPP
+   28  gpp
+   29  curl -sSL https://install.python-poetry.org | python3 -
+   30  poetry install --with ui
+   31  sudo apt install python3-poetry
+   32  history
+   33  ls
+   34  sudo vi README.md
+   35  vi .env
+   36  pwd
+   37  cd models
+   38  ls
+   39  cd ..
+   40  ls -l in*
+   41  sudo vi README.md
+   42  pyenv install 3.11
+   43  pythno
+   44  python
+   45  python3
+   46  cd ..
+   47  sudo add-apt-repository ppa:deadsnakes/ppa
+   48  sudo apt update
+   49  sudo apt install python3.11
+   50  history
+
+
+
+
+
+
+
+
+https://www.debugpoint.com/install-python-3-11-ubuntu/
